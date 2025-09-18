@@ -3,3 +3,6 @@ notes.txt
 .env
 example_output
 *.pt
+processed_real_sequences
+proces
+*.mp4
