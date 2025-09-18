@@ -1,0 +1,6 @@
+dotenv
+kagglehub
+numpy
+pandas
+tensorflow
+ultralytics

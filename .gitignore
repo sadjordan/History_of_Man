@@ -1,3 +1,5 @@
 proactives_venv
 notes.txt
 .env
+example_output
+*.pt
