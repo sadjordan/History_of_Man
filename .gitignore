@@ -6,3 +6,5 @@ example_output
 processed_real_sequences
 proces
 *.mp4
+processed_fake_vectors
+processed_real_vectors
