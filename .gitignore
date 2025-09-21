@@ -8,3 +8,4 @@ proces
 *.mp4
 processed_fake_vectors
 processed_real_vectors
+*.csv
